@@ -8,3 +8,4 @@ Cheet sheets for things to quickly check
   - `squeue -u yourusername`
 - cancel jobs using `scancel + JOBID`
   - `scancel -u your username`
+- tutorial: [1](https://hpcc.okstate.edu/content/checking-job-status)
